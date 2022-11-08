@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>量子情侶的窩</title>
-    <link>https://steven88sky.github.io/</link>
-    <description>Recent content on 量子情侶的窩</description>
+    <title>變數宣告 on 量子情侶的窩</title>
+    <link>https://steven88sky.github.io/tags/%E8%AE%8A%E6%95%B8%E5%AE%A3%E5%91%8A/</link>
+    <description>Recent content in 變數宣告 on 量子情侶的窩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2022 21:24:33 +0800</lastBuildDate><atom:link href="https://steven88sky.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 21:24:33 +0800</lastBuildDate><atom:link href="https://steven88sky.github.io/tags/%E8%AE%8A%E6%95%B8%E5%AE%A3%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>程式初探系列 - Day 01 變數的宣告</title>
       <link>https://steven88sky.github.io/2022/11/%E7%A8%8B%E5%BC%8F%E5%88%9D%E6%8E%A2%E7%B3%BB%E5%88%97-day-01-%E8%AE%8A%E6%95%B8%E7%9A%84%E5%AE%A3%E5%91%8A/</link>
@@ -27,30 +27,6 @@ var x = 20 // 宣告1個變數 x，其值為20 x = 10 // 將宣告的變數 x �
 2
 3
 let x = 20 // 宣告1個變數 x，其值為20 x = 10 // 將宣告的變數 x 變更其值，成為10 // let x = 30 // **錯誤:不可重新宣告變數 x** 變數宣告 const 如果該變數不會變更，則應視為常數，以const進行宣告，且不可重複宣告。</description>
-    </item>
-    
-    <item>
-      <title>程式初探系列 - Day 02 資料型別</title>
-      <link>https://steven88sky.github.io/2022/11/%E7%A8%8B%E5%BC%8F%E5%88%9D%E6%8E%A2%E7%B3%BB%E5%88%97-day-02-%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5/</link>
-      <pubDate>Sun, 06 Nov 2022 21:24:33 +0800</pubDate>
-      
-      <guid>https://steven88sky.github.io/2022/11/%E7%A8%8B%E5%BC%8F%E5%88%9D%E6%8E%A2%E7%B3%BB%E5%88%97-day-02-%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5/</guid>
-      <description>Javascript 的資料型別 (基礎型別) 除了物件(Object)以外的所有資料型別皆屬基礎型別
-型別名稱 例子 布林型別 (boolean) true、false 未定義型別 (undefined) undefined 數字型別 (number) 123、+Infinity、-Infinity、NaN (Not a Number) 字串型別 (string) &#39;Hello world&#39;、&amp;quot;Hello world&amp;quot; Javascript 的資料型別 (物件 object) 物件類型 例子 陣列 (object - Array) []、[1, 2, 3]、new Array() 物件 (object - Object) {}、{1}、{ key: value }、new Object() 空型別 (object - Null) null 小結 本篇介紹了Javascript中不同的資料型別，當然不同的程式語言會有一些不同的型別。但以初學者而言，先了解以上資料型別即可。
-小測驗 請根據上述教學並想想看以下例子屬於何種型別
-exercise.js js 1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13</description>
     </item>
     
   </channel>
